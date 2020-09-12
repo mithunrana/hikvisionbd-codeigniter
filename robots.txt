@@ -1,0 +1,8 @@
+Sitemap: http://www.hikvision.com.bd/sitemap1.xml
+User-agent: *
+Allow: /
+Disallow: /admin-login
+Disallow: /super-admin
+Disallow: /super-admin/
+Disallow: /super_admin/
+Disallow: /PhpMailSend
